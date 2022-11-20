@@ -280,3 +280,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 #### My hobbies are drawing singing etc
 ##### I'm 11 years old
 ###### Goodbye 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
